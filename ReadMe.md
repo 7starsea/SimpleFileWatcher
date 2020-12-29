@@ -1,5 +1,9 @@
 -- FileWatcher --
 
+Acknowledgement
+
+All core code are from https://github.com/jameswynn/simplefilewatcher. Our minor contribution is to simplify the compiling with CMake.
+
 Description:
 
 FileWatcher is a C++ wrapper for OS file monitoring systems. Currently
@@ -36,5 +40,5 @@ able to safely access the file's contents.
 Written by James Wynn
 Contact: james@jameswynn.com
 
-The most recent version can be located at:
-https://github.com/jameswynn/simplefilewatcher
+The original version can be located at:
+https://github.com/jameswynn/simplefilewatcher/commit/4bccd086621698f21a6e95f3ff77c559f862184a
